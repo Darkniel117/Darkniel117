@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hola 👋 soy Daniel Velasquez
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Darkniel117&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkniel117&layout=compact&theme=dark&langs_count=6)
+
 
 <!--
-**Darkniel117/Darkniel117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mi
+- 🎓 Actualmente soy estudiante del programa Tecnico en programacion de Software en el SENA.
+- 💻 Soy un entusiasta del diseño web y programacion.
 
-Here are some ideas to get you started:
+## Tecnologias
+Aunque me encuentro en una etapa temprana de mi carrera, he tenido la oportunidad de adquirir algunos conocimientos en tecnologias como 
+HTML, CSS, JavaScript, MySQL y MongoDB; las cuales practico dia a dia con algunos proyectos propios y de otras personas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 Actualmente estoy aprendiendo y fortaleciendo mis conocimientos en HTML, CSS, JavaScrit, GIT Y GITHUB, bases de datos MySQL y eventualmente 
+pienso iniciar a aprender mas tecnologias a fines como frameworks y lo necesario para ser competente laboralmente.
+
+![HTML](https://img.shields.io/badge/HTML-Intermediate-orange) 
+![CSS](https://img.shields.io/badge/CSS-Advanced-blue)
+
+## Proyectos de practica
+1. https://github.com/Darkniel117/Rick-Morty
+2. https://github.com/Darkniel117/proyecto
+3. https://github.com/Darkniel117/ejercicios
+
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 Correo de contacto: danield-117@outlook.com 
+- 🌐 linkedin: www.linkedin.com/in/danielvelasquezi
+
 -->
