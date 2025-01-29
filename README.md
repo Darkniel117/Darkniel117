@@ -25,6 +25,6 @@ pienso iniciar a aprender mas tecnologias a fines como frameworks y lo necesario
 3. https://github.com/Darkniel117/ejercicios
 
 - 📫 Correo de contacto: danield-117@outlook.com 
-- 🌐 linkedin: www.linkedin.com/in/danielvelasquezi
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin)](www.linkedin.com/in/danielvelasquezi)
 
 -->
