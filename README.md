@@ -1,10 +1,19 @@
-## Hola 👋 soy Daniel Velasquez
+
+  # <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e475wscg21yzigi5i22b6ep0gs17v4qk60cfx97kfjp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"/> Hola👋 soy Daniel
+
+![Header](Banner-Daniel.png)
+  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Darkniel117&show_icons=true&theme=radical)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkniel117&layout=compact&theme=dark&langs_count=6)
 
 :octocat: Portafolio: https://github.com/Darkniel117/Portafolio
 
-📱 LinkedIn: www.linkedin.com/in/danielvelasquezi
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+
+ www.linkedin.com/in/danielvelasquezi
 
 📧 Correo: Danield-117@outlook.com
 
