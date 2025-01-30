@@ -3,9 +3,10 @@
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkniel117&layout=compact&theme=dark&langs_count=6)
 
 ### 📂 Mi portafolio
-:octocat: [Ver mi portafolio] https://github.com/Darkniel117/Portafolio
+:octocat: https://github.com/Darkniel117/Portafolio
 
 📱 LinkedIn: www.linkedin.com/in/danielvelasquezi
+
 📧 Danield-117@outlook.com
 
 ![Estado](https://img.shields.io/badge/Status-Learning-02383C)
