@@ -6,6 +6,9 @@
 🌐 [Ver mi portafolio] https://github.com/Darkniel117/Portafolio
 
 🌐 LinkedIn: www.linkedin.com/in/danielvelasquezi
+
+![Estado del proyecto](https://img.shields.io/badge/status-active-brightgreen)
+![Licencia](https://img.shields.io/badge/license-MIT-blue)
 <!--
 ## Sobre mi
 - 🎓 Actualmente soy estudiante del programa Tecnico en programacion de Software en el SENA.
