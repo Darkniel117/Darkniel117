@@ -3,9 +3,10 @@
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkniel117&layout=compact&theme=dark&langs_count=6)
 
 ### 📂 Mi portafolio
-🌐 [Ver mi portafolio] https://github.com/Darkniel117/Portafolio
+:octocat: [Ver mi portafolio] https://github.com/Darkniel117/Portafolio
 
-🌐 LinkedIn: www.linkedin.com/in/danielvelasquezi
+📱 LinkedIn: www.linkedin.com/in/danielvelasquezi
+📧 Danield-117@outlook.com
 
 ![Estado](https://img.shields.io/badge/Status-Learning-02383C)
 <!--
@@ -28,7 +29,6 @@ pienso iniciar a aprender mas tecnologias a fines como frameworks y lo necesario
 2. https://github.com/Darkniel117/proyecto
 3. https://github.com/Darkniel117/ejercicios
 
-- 📫 Correo de contacto: danield-117@outlook.com 
-- 
+ Correo de contacto: danield-117@outlook.com 
 
 -->
