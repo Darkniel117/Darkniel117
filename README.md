@@ -8,7 +8,8 @@
 
 📧 Correo: Danield-117@outlook.com
 
-![Estado](https://img.shields.io/badge/Estado-Learning-02383C)
+![Estado](https://img.shields.io/badge/Estado-Aprendiendo-02383C)
+
 ![Tecnologías](https://img.shields.io/badge/Tecnologias-HTML%20%7C%20Css%20%7C%20MongoDB%20%7C%20MySQL-02383C)
 <!--
 ## Sobre mi
