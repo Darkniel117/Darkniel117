@@ -2,14 +2,14 @@
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Darkniel117&show_icons=true&theme=radical)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkniel117&layout=compact&theme=dark&langs_count=6)
 
-### 📂 Mi portafolio
-:octocat: https://github.com/Darkniel117/Portafolio
+:octocat: Portafolio: https://github.com/Darkniel117/Portafolio
 
 📱 LinkedIn: www.linkedin.com/in/danielvelasquezi
 
-📧 Danield-117@outlook.com
+📧 Email: Danield-117@outlook.com
 
 ![Estado](https://img.shields.io/badge/Status-Learning-02383C)
+![Tecnologías](https://img.shields.io/badge/technologies-HTML%20%7C%20Css%20%7C%20MongoDB-02383C)
 <!--
 ## Sobre mi
 - 🎓 Actualmente soy estudiante del programa Tecnico en programacion de Software en el SENA.
