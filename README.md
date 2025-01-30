@@ -4,6 +4,8 @@
 
 ### 📂 Mi portafolio
 🌐 [Ver mi portafolio] https://github.com/Darkniel117/Portafolio
+
+🌐 LinkedIn: www.linkedin.com/in/danielvelasquezi
 <!--
 ## Sobre mi
 - 🎓 Actualmente soy estudiante del programa Tecnico en programacion de Software en el SENA.
@@ -25,6 +27,6 @@ pienso iniciar a aprender mas tecnologias a fines como frameworks y lo necesario
 3. https://github.com/Darkniel117/ejercicios
 
 - 📫 Correo de contacto: danield-117@outlook.com 
-- 🌐 LinkedIn: www.linkedin.com/in/danielvelasquezi
+- 
 
 -->
