@@ -7,7 +7,7 @@
 
 🌐 LinkedIn: www.linkedin.com/in/danielvelasquezi
 
-![Estado](https://img.shields.io/badge/Status-Learning-3E432E)
+![Estado](https://img.shields.io/badge/Status-Learning-02383C)
 <!--
 ## Sobre mi
 - 🎓 Actualmente soy estudiante del programa Tecnico en programacion de Software en el SENA.
