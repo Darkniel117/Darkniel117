@@ -1,8 +1,10 @@
-
-  # <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e475wscg21yzigi5i22b6ep0gs17v4qk60cfx97kfjp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"/> Hola👋 soy Daniel
+  # <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e475wscg21yzigi5i22b6ep0gs17v4qk60cfx97kfjp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40"/> Hola👋 soy Daniel
 
 ![Header](Banner-Daniel.png)
+Actualmente soy estudiante del programa Tecnico en programacion de Software en el SENA. Soy un entusiasta del diseño web y programacion. 
 
+Aunque me encuentro en una etapa temprana de mi carrera, he tenido la oportunidad de adquirir algunos conocimientos basicos en algunas tecnologias, las cuales deseo ir fortaleciendo y sumando mas a mi stack.
+## Tecnologias 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -18,13 +20,16 @@
 
 :octocat: Portafolio: https://github.com/Darkniel117/Portafolio
 
-[<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>](www.linkedin.com/in/danielvelasquezi)
+## Redes 📱
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/danielvelasquezi)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](Danield-117@outlook.com)
 
-📧 Correo: Danield-117@outlook.com
+[![X](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Daniel_j117)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/daniel_v_117/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/DanielS117)
 
 ![Estado](https://img.shields.io/badge/Estado-Aprendiendo-02383C)
 
-![Tecnologías](https://img.shields.io/badge/Tecnologias-HTML%20%7C%20Css%20%7C%20MongoDB%20%7C%20MySQL-02383C)
 <!--
 ## Sobre mi
 - 🎓 Actualmente soy estudiante del programa Tecnico en programacion de Software en el SENA.
