@@ -1,6 +1,6 @@
   # <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e475wscg21yzigi5i22b6ep0gs17v4qk60cfx97kfjp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40"/> Hola👋 soy Daniel
 
-![Header](Banner-Daniel.png)
+![Header](Wallpaper-DevNiel.png)
 Actualmente soy estudiante del programa Técnico en programación de Software en el SENA. Soy un entusiasta del diseño web y programación. 
 Aunque me encuentro en una etapa temprana de mi carrera, he tenido la oportunidad de adquirir algunos conocimientos básicos en algunas tecnologías, las cuales deseo ir fortaleciendo e ir sumando más a mi stack.
 
